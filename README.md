@@ -6,6 +6,15 @@ This project aims to predict the cost of homes in California using machine learn
 various features related to housing attributes such as location, age, income, and proximity to the ocean. The primary
 objective is to build predictive models that can accurately estimate the median house value based on these features.
 
+
+![image](https://github.com/user-attachments/assets/9b196fdf-94a7-44e1-9988-fd8a03f2143d)
+
+
+
+![image](https://github.com/user-attachments/assets/0391a715-0ce6-4f76-86d3-a2f8955a75ec)
+
+
+
 ## Features
 
 The dataset consists of the following feature variables:
